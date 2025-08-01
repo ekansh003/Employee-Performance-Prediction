@@ -95,7 +95,7 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Anandmall/Employee-Performance-Prediction.git
+git clone https://github.com/ekansh003/Employee-Performance-Prediction.git
 cd Employee-Performance-Prediction
 ```
 
@@ -186,5 +186,5 @@ If you found this project helpful:
 
 ## 📬 Contact
 
-Made with ❤️ by [Anand Kumar Mall](https://github.com/Anandmall)  
-Have questions? Open an [Issue](https://github.com/Anandmall/Employee-Performance-Prediction/issues)
+Made with ❤️ by [Ekansh Jaiswal](https://github.com/ekansh003)  
+Have questions? Open an [Issue](https://github.com/ekansh003/Employee-Performance-Prediction/issues)
