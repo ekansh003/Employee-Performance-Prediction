@@ -3,7 +3,7 @@
 Welcome to the **Employee Productivity Prediction** project!  
 This web application uses a trained XGBoost model to predict the productivity level of employees based on various input features like department, working hours, incentives, and more.
 
-![Banner](Flask/static/banner.png)
+![Banner](Skill%20Wallet/Flask/static/banner.png)
 
 ---
 
@@ -78,13 +78,16 @@ The dataset was sourced from the **Garments Worker Productivity** dataset on Kag
 ## 🖥️ UI Screenshots
 
 ### 🔸 Home Page
-![Home](Flask/static/about.png)
+![Home](Skill%20Wallet/Flask/static/home.png)
+
+### 🔸 About Page
+![Form](Skill%20Wallet/Flask/static/about.png)
 
 ### 🔸 Prediction Form
-![Form](Flask/static/form.png)
+![Form](Skill%20Wallet/Flask/static/form.png)
 
 ### 🔸 Prediction Result
-![Result](Flask/static/result.png)
+![Result](Skill%20Wallet/Flask/static/result.png)
 
 ---
 
